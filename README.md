@@ -1,1 +1,1 @@
-# ML-Algorithms
+# Basic ML algorithms from scratch
